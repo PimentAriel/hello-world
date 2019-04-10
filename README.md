@@ -5,4 +5,3 @@ Olá, estou aprendendo a utilizar o Git, realizar alterações nessa branch, faz
 
 Espero que dê certo !
 
-Obs.: Luh meu amor, te amo Gatona S2
